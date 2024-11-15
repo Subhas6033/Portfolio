@@ -24,6 +24,7 @@ export default function Skill() {
                 <Slide delay={0.7}><li className='bg-amber-300 h-10 w-30 p-2 rounded-sm text-center align-middle'>Bootstrap</li></Slide>
                 <Slide delay={0.8}><li className='bg-amber-300 h-10 w-30 p-2 rounded-sm text-center align-middle'>Tailwind CSS</li></Slide>
                 <Slide delay={0.9}><li className='bg-amber-300 h-10 w-30 p-2 rounded-sm text-center align-middle'>React.JS</li></Slide>
+                <Slide delay={0.9}><li className='bg-amber-300 h-10 w-30 p-2 rounded-sm text-center align-middle'>Three.JS</li></Slide>
             </ul>
         </div>
     );

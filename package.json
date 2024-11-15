@@ -38,5 +38,12 @@
   },
   "devDependencies": {
     "tailwindcss": "^3.4.14"
-  }
+  },
+  "description": "My Portfolio Site",
+  "main": "index.js",
+  "keywords": [
+    "node"
+  ],
+  "author": "Subhas Mondal",
+  "license": "ISC"
 }

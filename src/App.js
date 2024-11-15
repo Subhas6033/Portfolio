@@ -1,8 +1,6 @@
 import React from 'react'
-import Navbar from './Components/Navbar'
-import AboutMe from './Components/AboutMe'
 import { ThemeProvider } from './assets/ThemeContext'
-import Skill from './Components/Skill'
+import { Navbar, AboutMe, Skill, Project } from '.';
 export default function App() {
   return (
   <>
@@ -10,6 +8,7 @@ export default function App() {
         <Navbar />
         <AboutMe />
         <Skill/>
+        <Project/>
       </ThemeProvider>
   </>
   )

@@ -3,6 +3,10 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+export { default as Navbar } from './Components/Navbar';
+export { default as AboutMe } from './Components/AboutMe';
+export { default as Skill } from './Components/Skill';
+export { default as Project } from './Components/Project';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
