@@ -21,15 +21,15 @@ I am actively seeking an internship to further enhance my skills and contribute 
 - **Responsive Design**: Optimized for viewing on all devices, from desktops to smartphones.
 
 ## 🖥️ Projects Highlighted
-1. **Interactive Login Form with Animation**: Implemented in JavaScript, showcasing my UI/UX skills.
-2. **Dark Mode Feature with React**: A global dark mode toggle across components, built with Tailwind CSS.
-3. **Mobile Menu Transitions**: Smooth animations like 'slide-fade-in' and 'slide-fade-out' for mobile menus.
+
+1. **Dark Mode Feature with React**: A global dark mode toggle across components, built with Tailwind CSS.
+2. **Mobile Menu Transitions**: Smooth animations like 'slide-fade-in' and 'slide-fade-out' for mobile menus.
 
 Explore more projects on the portfolio itself!
 
 ## 🚀 Technologies Used
 - **Frameworks**: React.js
-- **Styling**: Tailwind CSS, Bootstrap
+- **Styling**: Tailwind CSS
 - **Version Control**: GitHub
 - **Hosting**: Vercel
 
